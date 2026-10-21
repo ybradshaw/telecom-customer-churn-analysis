@@ -33,7 +33,7 @@
 1. **Prioritize month-to-month customers.** This segment has the highest churn rate (51.69%), the largest number of churned customers (1,655), and the largest monthly charges associated with churned customers ($118,802.90).
 2. **Focus on early-tenure customers.** Customers with 0–9 months of tenure have a 66.45% churn rate. Consider reviewing onboarding, early customer experience, and proactive support for this group.
 3. **Investigate Fiber Optic customers.** Their churn rate is 42.13%, the highest among the listed internet types. Further analysis should explore pricing, service issues, and customer needs before deciding on interventions.
-4. **Review payment-method differences.** Churn is higher among customers paying by mailed check or bank withdrawal than among credit-card customers. Investigate possible differences in customer profile and payment experience before interpreting this as a direct relationship.
+4. **Review payment-method differences.** Churn is higher among customers paying by mailed check or bank withdrawal than among credit-card customers.
 5. **Investigate negative monthly charges.** Validate the 120 negative-charge records to understand whether they reflect credits, adjustments, or data-quality issues.
 
 ## Business Implications

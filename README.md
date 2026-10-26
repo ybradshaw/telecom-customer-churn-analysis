@@ -51,14 +51,14 @@ The dataset contains 7,043 customer records, including demographics, location, s
 
 -Test targeted incentives to encourage month-to-month customers to switch to longer-term contracts.
 
-**Target:** Month-to-month customers
+**Target:** Month-to-month customers  
 **Success KPIs:** Churn rate, contract conversion rate, retained monthly revenue
 
 **2. Improve Early Customer Retention**
 
 -Investigate early-tenure churn drivers and test improvements to onboarding, customer engagement, and proactive support.
 
-**Target:** Customers within their first 9 months
+**Target:** Customers within their first 9 months  
 **Success KPIs:** Early-tenure churn rate, customer retention rate
 
 **3. Improve High-Value Customer Retention**
@@ -71,8 +71,8 @@ To improve retention, the company should:
 - Introduce proactive customer outreach to identify dissatisfaction with pricing, service quality, or support before customers leave.
 - Evaluate the effectiveness of these initiatives through controlled experiments before expanding them to other customer segments.
 
-**Target:** Higher-paying customers with elevated churn rates ($70–109/month).
-**Success KPIs:** Segment churn rate, retention offer acceptance rate, retained monthly revenue.
+**Target:** Higher-paying customers with elevated churn rates ($70–109/month)  
+**Success KPIs:** Segment churn rate, retention offer acceptance rate, retained monthly revenue
 
 ## Methodology & Limitations
 

@@ -29,4 +29,4 @@ Source: [Maven Analytics — Telecom Customer Churn](https://mavenanalytics.io/d
 - **Recommendation 2:** [Action, target segment, and success KPI]
 
 ## Dashboard
-[View Interactive Tableau Dashboard](ADD_LINK)
+[View Interactive Tableau Dashboard]([ADD_LINK](https://public.tableau.com/app/profile/yuliia.bradshaw/viz/TelecomAnalytics/TelecomCustomerChurnDashboard))

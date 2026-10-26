@@ -49,14 +49,14 @@ The dataset contains 7,043 customer records, including demographics, location, s
 
 **1. Prioritize Month-to-Month Retention**
 
--Test targeted incentives to encourage month-to-month customers to switch to longer-term contracts.
+- Test targeted incentives to encourage month-to-month customers to switch to longer-term contracts.
 
 **Target:** Month-to-month customers  
 **Success KPIs:** Churn rate, contract conversion rate, retained monthly revenue
 
 **2. Improve Early Customer Retention**
 
--Investigate early-tenure churn drivers and test improvements to onboarding, customer engagement, and proactive support.
+- Investigate early-tenure churn drivers and test improvements to onboarding, customer engagement, and proactive support.
 
 **Target:** Customers within their first 9 months  
 **Success KPIs:** Early-tenure churn rate, customer retention rate

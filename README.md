@@ -2,7 +2,7 @@
 
 ## Business Problem
 
-A fictional telecommunications company serving 7,043 customers in California wants to understand customer churn, identify key churn drivers, assess revenue impact, and improve customer retention.
+A  telecommunications company serving 7,043 customers in California wants to understand customer churn, identify key churn drivers, assess revenue impact, and improve customer retention.
 
 This project uses Excel, SQL, and Tableau to transform customer data into actionable business insights.
 

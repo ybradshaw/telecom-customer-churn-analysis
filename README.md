@@ -83,9 +83,11 @@ To improve retention, the company should:
 
 ## Project Files
 
-- **Excel Analysis:** Data quality checks, Pivot Tables, KPIs, and business findings.
-- **SQL Analysis:** BigQuery scripts covering customer profiles, churn drivers, revenue impact, and retention priorities.
-- **Tableau Dashboard:** Interactive visualization of customer segmentation, churn patterns, and business recommendations.
+- **[Excel Analysis](excel/):** Data quality checks, Pivot Tables, KPIs, and business findings.
+- **[Excel Findings](excel/excel_findings.md):** Detailed Excel insights and recommendations.
+- **[SQL Analysis](sql/):** BigQuery scripts covering churn drivers, customer segmentation, and revenue impact.
+- **[SQL Findings](sql/sql_findings.md):** Detailed SQL analysis results.
+- **[Tableau Dashboard](tableau/):** Dashboard screenshots and visualization files.
 
 ## Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yuliia.bradshaw/viz/TelecomAnalytics/TelecomCustomerChurnDashboard)

@@ -67,9 +67,9 @@ Customers paying $70–79 per month have a 42.77% churn rate, indicating a high-
 
 To improve retention, the company should:
 
-- **Test personalized retention offers**, such as temporary discounts or service upgrades, for higher-paying customers at risk of churning.
-- **Introduce proactive customer outreach** to identify dissatisfaction with pricing, service quality, or support before customers leave.
-- **Evaluate the effectiveness of these initiatives** through controlled experiments before expanding them to other customer segments.
+**Test personalized retention offers**, such as temporary discounts or service upgrades, for higher-paying customers at risk of churning.
+**Introduce proactive customer outreach** to identify dissatisfaction with pricing, service quality, or support before customers leave.
+**Evaluate the effectiveness of these initiatives** through controlled experiments before expanding them to other customer segments.
 
 - **Target:** Higher-paying customers with elevated churn rates ($70–109/month).
 - **Success KPIs:** Segment churn rate, retention offer acceptance rate, retained monthly revenue.

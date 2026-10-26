@@ -87,7 +87,7 @@ To improve retention, the company should:
 - **[Excel Findings](excel/excel_findings.md):** Detailed Excel insights and recommendations.
 - **[SQL Analysis](sql/):** BigQuery scripts covering churn drivers, customer segmentation, and revenue impact.
 - **[SQL Findings](sql/sql_findings.md):** Detailed SQL analysis results.
-- **[Tableau Dashboard](tableau/):** Dashboard screenshots and visualization files.
+- **[Tableau Dashboard](tableau/):** Link to the visualization.
 
 ## Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/yuliia.bradshaw/viz/TelecomAnalytics/TelecomCustomerChurnDashboard)

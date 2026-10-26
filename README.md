@@ -61,12 +61,18 @@ Investigate early-tenure churn drivers and test improvements to onboarding, cust
 - **Target:** Customers within their first 9 months
 - **Success KPIs:** Early-tenure churn rate, customer retention rate
 
-**3. Investigate High-Value Customer Churn**
+**3. Improve High-Value Customer Retention**
 
-Analyze pricing, service quality, and perceived value among customers paying $70–109 per month, then test targeted retention initiatives.
+Customers paying $70–79 per month have a 42.77% churn rate, indicating a high-risk segment.
 
-- **Target:** Higher-paying customers with elevated churn rates
-- **Success KPIs:** Segment churn rate, retained monthly revenue
+To improve retention, the company should:
+
+- **Test personalized retention offers**, such as temporary discounts or service upgrades, for higher-paying customers at risk of churning.
+- **Introduce proactive customer outreach** to identify dissatisfaction with pricing, service quality, or support before customers leave.
+- **Evaluate the effectiveness of these initiatives** through controlled experiments before expanding them to other customer segments.
+
+**Target:** Higher-paying customers with elevated churn rates ($70–109/month).
+**Success KPIs:** Segment churn rate, retention offer acceptance rate, retained monthly revenue.
 
 ## Methodology & Limitations
 

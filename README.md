@@ -71,8 +71,8 @@ To improve retention, the company should:
 - **Introduce proactive customer outreach** to identify dissatisfaction with pricing, service quality, or support before customers leave.
 - **Evaluate the effectiveness of these initiatives** through controlled experiments before expanding them to other customer segments.
 
-**Target:** Higher-paying customers with elevated churn rates ($70–109/month).
-**Success KPIs:** Segment churn rate, retention offer acceptance rate, retained monthly revenue.
+- **Target:** Higher-paying customers with elevated churn rates ($70–109/month).
+- **Success KPIs:** Segment churn rate, retention offer acceptance rate, retained monthly revenue.
 
 ## Methodology & Limitations
 
